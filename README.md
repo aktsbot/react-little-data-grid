@@ -63,9 +63,6 @@ export default App;
 
 ## Development
 
-[Mevlüt Can Tuna's wonderful guide](https://medium.com/@mevlutcantuna/building-a-modern-react-component-library-a-guide-with-vite-typescript-and-tailwind-css-862558516b8d) on
-building packages with vite is used as reference.
-
 ```sh
 $ git clone https://github.com/aktsbot/react-little-data-grid
 $ cd react-little-data-grid
@@ -92,6 +89,6 @@ Copy over the sample code in the usage section to your `test-react-app`'s jsx, a
 
 ## Credits
 
-- [Mevlüt Can Tuna's](https://medium.com/@mevlutcantuna/building-a-modern-react-component-library-a-guide-with-vite-typescript-and-tailwind-css-862558516b8d)
+- [Mevlüt Can Tuna](https://medium.com/@mevlutcantuna/building-a-modern-react-component-library-a-guide-with-vite-typescript-and-tailwind-css-862558516b8d)
 - [Robin Rendle](https://css-tricks.com/idea-simple-responsive-spreadsheet/)
 
